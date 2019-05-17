@@ -5,7 +5,7 @@ import os
 
 
 class DatasetCatalog(object):
-    DATA_DIR = "/media/atu31/Seagate Backup Plus Drive/Datasets/"
+    DATA_DIR = "/media/adam/HDD Storage/Datasets"
     DATASETS = {
         "supervisely_coco_2018_train": {
             "img_dir": "supervisely-persons-coco/image-train",
